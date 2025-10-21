@@ -6,7 +6,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit)
 
 <p align="center">
-  <img src="./og-card.png" alt="ookyet.eth — ENS verified identity, NFT avatar Lil Ghost #761" width="880">
+  <img src="./og-card.png" alt="ookyet.eth — ENS-anchored identity card (NFT avatar: Lil Ghost #761)" width="880">
 </p>
 
 ---
@@ -27,7 +27,7 @@
 - **ENS**: `ookyet.eth` (human-readable handle ↔ on-chain address)
 - **NFT avatar**: _Lil Ghost #761_ (ownership publicly verifiable on-chain)
 - **Sovereign site**: https://ookyet.com (canonical **Identity Proof** & **Verified Gallery**)
-- **Web3 credentials**: Dentity profile binding personhood ↔ ENS ↔ socials
+- **Web3 credentials**: Dentity profile binds personhood ↔ ENS ↔ socials
 
 ---
 
@@ -44,10 +44,10 @@
    Resolve `ookyet.eth` via your preferred ENS/Etherscan/Wallet tool and note the controller/owner address.
 
 2. **Check avatar provenance**
-   Confirm the wallet above also **owns _Lil Ghost #761_** (contract + token id). This binds the avatar to the ENS name.
+   Confirm that the wallet above also owns _Lil Ghost #761_ (contract + token id). This binds the avatar to the ENS name.
 
 3. **Check off-chain consistency**
-   Visit **https://ookyet.com/proof** to see signed, linkable proofs to X/Instagram and other surfaces. Optionally cross-check **https://app.dentity.com/ookyet.eth** for credential bindings.
+   Visit **https://ookyet.com/proof** to see signed, linkable proofs to X/Instagram and other surfaces. Optionally, cross-check https://app.dentity.com/ookyet.eth for credential bindings.
 
 4. **View the audit trail**
    Browse **https://ookyet.com/gallery/** for snapshots and live links showing the identity's visual and link-level consistency.
