@@ -71,6 +71,9 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b5fff)
 ![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit)
 </details>
-
+<p align="center">
+  <sub>“The way I ook defines what I can yet build.” — the <i>ookyet</i> cadence</sub>
+</p>
+```
 
 
