@@ -1,111 +1,67 @@
-<!--
-Social preview: In this repo's Settings → Social preview, upload a 1280×640 image
-(ideally the same hero used on ookyet.com) for consistent sharing.
--->
+# ookyet.eth
 
-<p align="center">
-  <a href="https://ookyet.com" target="_blank" rel="noopener">
-    <img src="https://ookyet.com/og/ookyet-hero.png"
-         alt="ookyet.eth — A verifiable digital identity built on ENS, NFT, and social unification."
-         width="820">
-  </a>
-</p>
+*A verifiable digital identity built on ENS, NFT, and social unification.*
 
-<h1 align="center">ookyet.eth</h1>
+[![GitHub Repo stars](https://img.shields.io/github/stars/ookyet/ookyet?style=flat)](https://github.com/ookyet/ookyet/stargazers)
+![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?style=flat)
+[![Follow on X](https://img.shields.io/badge/Follow-@ookyet-111111?logo=x&logoColor=white)](https://x.com/ookyet)
+![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-2A50E6)
 
-<p align="center">
-  <em>A verifiable digital identity built on ENS, NFT, and social unification.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ookyet">
-    <img alt="Followers" src="https://img.shields.io/github/followers/ookyet?style=flat&label=Followers">
-  </a>
-  <a href="https://github.com/ookyet/ookyet/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/ookyet/ookyet?style=flat">
-  </a>
-  <a href="https://github.com/ookyet/ookyet/commits/main">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/ookyet/ookyet?style=flat">
-  </a>
-  <a href="https://x.com/ookyet">
-    <img alt="Follow on X" src="https://img.shields.io/badge/Follow-%40ookyet-black?logo=x">
-  </a>
-  <a href="https://ens.domains/">
-    <img alt="Built on ENS" src="https://img.shields.io/badge/Built%20on-ENS-3C3C3D?logo=ethereum">
-  </a>
-</p>
+[![OG preview — ookyet.eth](https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png)](https://ookyet.com)
 
 ---
 
-## What is **ookyet**?
+## Verify me fast
+
+- ✅ **Identity Proof (public audit hub):** https://ookyet.com/proof  
+- ✅ **ENS domain (on-chain ownership):** `ookyet.eth`  
+- ✅ **Web3 credential (Dentity):** https://dentity.com/ookyet.eth
+
+---
+
+## What is ookyet?
 
 **ookyet** is a personal framework and a verified Web3 identity operated by Qifeng Huang.  
 It anchors a **brand-first** digital self across platforms with public, auditable evidence.
 
-**One-line**: *A verifiable digital identity built on ENS, NFT, and social unification.*
+**One-liner:** *A verifiable digital identity built on ENS, NFT, and social unification.*
 
 ### Identity pillars
-- **ENS**: `ookyet.eth`
-- **NFT avatar**: *Lil Ghost #761* (publicly verifiable)
-- **Sovereign website**: <https://ookyet.com>  
-  - **Identity Proof** hub consolidating on-chain & off-chain evidence  
-  - **Verified Gallery** with live links and snapshots
+- **ENS:** `ookyet.eth` (on-chain ownership)
+- **NFT avatar:** *Lil Ghost #761* (publicly verifiable)
+- **Sovereign site:** https://ookyet.com (Identity Proof + Verified Gallery)
+- **Consistent handle:** `ookyet` across X / Instagram / GitHub
 
----
-
-## Verification architecture (at a glance)
-
-- **On-chain anchors**  
-  Ownership of the ENS domain (`ookyet.eth`) and the NFT avatar is public and traceable.
-
-- **Off-chain consistency**  
-  The *ookyet* handle and avatar are used consistently across major social platforms.
-
-- **Sovereign verification hub**  
-  <https://ookyet.com/proof> provides a single, auditable place to verify identity elements.
-
-- **Web3 credentials (optional layer)**  
-  Dentity credentials link personhood to the ENS identity in a privacy-respecting way.
-
-> The design keeps core identity constant and platform-agnostic.
-
----
-
-## Quick links
-
-- Identity Proof → <https://ookyet.com/proof>  
-- Verified Gallery → <https://ookyet.com/gallery>  
-- Website (about) → <https://ookyet.com>  
-- Dentity (credentials) → <https://dentity.com/ookyet.eth>  
-- Instagram → <https://www.instagram.com/ookyet>  
-- X (Twitter) → <https://x.com/ookyet>  
-- GitHub → <https://github.com/ookyet>
-
----
-
-## Principles
-
-> **The way we see, and what we do next.**  
-A two-part cadence for turning perception into reality. The identity exists to keep creation
-and verification aligned over time.
-
----
-
-## Status & scope
-
-This is a personal, non-commercial identity project focused on **long-term consistency**,
-**public verifiability**, and **minimal surface for ambiguity** across the open web.
+### Links
+- Website: https://ookyet.com  
+- Identity Proof: https://ookyet.com/proof  
+- Verified Gallery: https://ookyet.com/gallery/  
+- Dentity: https://dentity.com/ookyet.eth  
+- X (Twitter): https://x.com/ookyet  
+- Instagram: https://www.instagram.com/ookyet/  
+- GitHub: https://github.com/ookyet  
+- Wikidata: https://www.wikidata.org/wiki/Q136532531
 
 ---
 
 <details>
-<summary><strong>Copy-ready snippets</strong> (badges & hero)</summary>
+  <summary>中文简介（点击展开）</summary>
 
-**Badges**
+**ookyet** 是一个“品牌优先”的 Web3 数字身份，由 Qifeng Huang 运营。  
+核心由 **ENS 域名 `ookyet.eth`**、**NFT 头像 Lil Ghost #761**、与独立网站 **ookyet.com** 共同构成，  
+并通过 **Identity Proof** 与 **Dentity 证书**实现公开、可审计的统一身份。
+
+- 一句话：*A verifiable digital identity built on ENS, NFT, and social unification.*  
+- 快速验证：  
+  - https://ookyet.com/proof  
+  - https://dentity.com/ookyet.eth
+</details>
+
+---
+
+## Copy-paste kit (badge + OG)
+
+> Put your mouse on the image to copy the Markdown.
 
 ```md
-[![Stars](https://img.shields.io/github/stars/ookyet/ookyet?style=flat)](https://github.com/ookyet/ookyet/stargazers)
-[![Followers](https://img.shields.io/github/followers/ookyet?style=flat&label=Followers)](https://github.com/ookyet)
-[![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?style=flat)](https://github.com/ookyet/ookyet/commits/main)
-[![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-3C3C3D?logo=ethereum)](https://ens.domains/)
-[![Follow on X](https://img.shields.io/badge/Follow-%40ookyet-black?logo=x)](https://x.com/ookyet)
+[![ookyet.eth — badge / OG](https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png)](https://ookyet.com/proof)
