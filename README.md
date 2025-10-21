@@ -18,8 +18,8 @@
 
 ---
 
-## What is **ookyet**?
-**ookyet** is a personal framework and a verified Web3 identity operated by **Qifeng Huang**. It anchors a **brand-first** digital self across platforms with public, auditable evidence. On-chain assets and off-chain social proofs are combined into one verifiable persona.
+## What is ookyet?
+**ookyet** is a personal framework and a verified Web3 identity operated by the controller of the ENS name **ookyet.eth**. It anchors a **brand-first** digital self across platforms with public, auditable evidence. On-chain assets and off-chain social proofs are combined into one verifiable persona.
 
 ---
 
@@ -74,9 +74,6 @@
 </details>
 <details>
 <summary><b>Badges (Markdown)</b></summary>
-[![Follow @ookyet](https://img.shields.io/badge/Follow-@ookyet-111?logo=x&logoColor=white&style=flat-square)](https://x.com/ookyet)
-[![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b55ff?style=flat-square)](https://app.ens.domains/name/ookyet.eth)
-[![last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit&style=flat-square)](https://github.com/ookyet/ookyet/commits/main)
 </details>
 ```
 
@@ -93,25 +90,25 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Qifeng Huang",
-  "alternateName": "ookyet.eth",
+  "name": "ookyet.eth",
+  "alternateName": "ookyet",
   "url": "https://ookyet.com",
   "image": "https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png",
   "sameAs": [
-    "https://app.ens.domains/name/ookyet.eth",
+    "https://app.ens.domains/ookyet.eth",
     "https://etherscan.io/enslookup-search?search=ookyet.eth",
     "https://x.com/ookyet",
     "https://instagram.com/ookyet",
-    "https://dentity.com/ookyet.eth"
+    "https://app.dentity.com/ookyet.eth"
   ],
   "description": "Brand-first Web3 identity anchored by ENS and NFT, with public, auditable proofs."
 }
-</details>
 <details>
 <summary><b>Minimal canonical trio</b></summary>
-	•	Identity Proof: https://ookyet.com/proof
-	•	ENS (on-chain): ookyet.eth
-	•	Gallery (visual evidence): https://ookyet.com/gallery/
+
+- Identity Proof: https://ookyet.com/proof  
+- ENS (on-chain): `ookyet.eth`  
+- Gallery (visual evidence): https://ookyet.com/gallery/
 </details>
 ```
 
