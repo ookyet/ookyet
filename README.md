@@ -14,7 +14,7 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ## Verify me fast
 - ✅ **Identity Proof (public audit hub):** https://ookyet.com/proof  
 - ✅ **ENS domain (on-chain ownership):** `ookyet.eth`  
-- ✅ **Web3 credential (Dentity):** https://dentity.com/ookyet.eth
+- ✅ **Web3 credential (Dentity):** https://app.dentity.com/ookyet.eth
 
 ---
 
@@ -46,12 +46,13 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ---
 
 ## Canonical links
-- **Identity Proof:** https://ookyet.com/proof  
-- **Verified Gallery:** https://ookyet.com/gallery/  
-- **ENS Playbook (context):** https://ookyet.com/ens/  
-- **Sovereign site:** https://ookyet.com  
-- **Dentity:** https://dentity.com/ookyet.eth  
-- **X / Instagram:** `@ookyet`
+- **Identity Proof:** https://ookyet.com/proof
+- **Verified Gallery:** https://ookyet.com/gallery/
+- **ENS Playbook (context):** https://ookyet.com/ens/
+- **Sovereign site:** https://ookyet.com
+- **Dentity:** https://dentity.com/ookyet.eth
+- **ENS record:** [`ookyet.eth`](https://app.ens.domains/name/ookyet.eth)
+- **X / Instagram:** https://x.com/ookyet · https://instagram.com/ookyet
 
 ---
 
@@ -62,7 +63,7 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 
 ```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png" alt="OG preview — ookyet.eth" width="880">
+  <img src="https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png" alt="OG preview — ookyet.eth identity card" width="880">
 </p>
 </details>
 <details>
@@ -71,13 +72,11 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b5fff)
 ![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit)
 </details>
-<p align="center">
-  <sub>“The way I ook defines what I can yet build.” — the <i>ookyet</i> cadence</sub>
-</p>
 ```
+
 ---
 ### Tech bits
-- Social preview: 1200×630 (set in **Settings → Social preview**)
+- Social preview: **1200×630** (set in **Settings → Social preview**)
 - OG image in README: `og-card.png` (served via raw.githubusercontent.com)
 - This is a *special* profile repository: `ookyet/ookyet`
 
