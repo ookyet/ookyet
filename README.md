@@ -77,7 +77,7 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ```
 ---
 ### Tech bits
-- Social preview: 1280×640 (set in **Settings → Social preview**)
+- Social preview: 1200×630 (set in **Settings → Social preview**)
 - OG image in README: `og-card.png` (served via raw.githubusercontent.com)
 - This is a *special* profile repository: `ookyet/ookyet`
 
