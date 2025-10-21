@@ -1,12 +1,14 @@
 # ookyet.eth
-*The way I **ook** defines what I can yet build.* *(brand-first, verifiable Web3 identity anchored by ENS & NFT)*
+*The way I **ook** defines what I can yet build.*
+
+**Digital Builder · ⌘ Tinkerer · Pixel Purist**
 
 [![Follow @ookyet](https://img.shields.io/badge/Follow-@ookyet-111?logo=x&logoColor=white)](https://x.com/ookyet)
 ![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b5fff)
 ![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit)
 
 <p align="center">
-  <img src="./og-card.png" alt="ookyet.eth — ENS-anchored identity card (NFT avatar: Lil Ghost #761)" width="880">
+  <img src="./og-card.png" alt="ookyet.eth — ENS verified identity, NFT avatar Lil Ghost #761" width="880">
 </p>
 
 ---
@@ -19,7 +21,9 @@
 ---
 
 ## What is ookyet?
-**ookyet** is a personal framework and a verified Web3 identity operated by the controller of the ENS name **ookyet.eth**. It anchors a **brand-first** digital self across platforms with public, auditable evidence. On-chain assets and off-chain social proofs are combined into one verifiable persona.
+**ookyet** is a personal framework and verified Web3 identity controlled by **ookyet.eth**.
+
+It bridges on-chain assets (ENS, NFT) and off-chain proofs (social, credentials) into one publicly auditable persona — a **brand-first** digital self with zero trust assumptions.
 
 ---
 
@@ -27,7 +31,8 @@
 - **ENS**: `ookyet.eth` (human-readable handle ↔ on-chain address)
 - **NFT avatar**: _Lil Ghost #761_ (ownership publicly verifiable on-chain)
 - **Sovereign site**: https://ookyet.com (canonical **Identity Proof** & **Verified Gallery**)
-- **Web3 credentials**: Dentity profile binds personhood ↔ ENS ↔ socials
+- **Web3 credentials**: Dentity profile binding personhood ↔ ENS ↔ socials
+- **Structured data**: Schema.org @graph entity modeling (machine-readable identity for search engines)
 
 ---
 
@@ -44,10 +49,10 @@
    Resolve `ookyet.eth` via your preferred ENS/Etherscan/Wallet tool and note the controller/owner address.
 
 2. **Check avatar provenance**
-   Confirm that the wallet above also owns _Lil Ghost #761_ (contract + token id). This binds the avatar to the ENS name.
+   Confirm the wallet above also **owns _Lil Ghost #761_** (contract + token id). This binds the avatar to the ENS name.
 
 3. **Check off-chain consistency**
-   Visit **https://ookyet.com/proof** to see signed, linkable proofs to X/Instagram and other surfaces. Optionally, cross-check https://app.dentity.com/ookyet.eth for credential bindings.
+   Visit **https://ookyet.com/proof** to see signed, linkable proofs to X/Instagram and other surfaces. Optionally cross-check **https://app.dentity.com/ookyet.eth** for credential bindings.
 
 4. **View the audit trail**
    Browse **https://ookyet.com/gallery/** for snapshots and live links showing the identity's visual and link-level consistency.
@@ -74,7 +79,7 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 - **Sovereign site:** https://ookyet.com
 - **Dentity:** https://app.dentity.com/ookyet.eth
 - **ENS record:** `ookyet.eth`
-  - ENS app: https://app.ens.domains/ookyet.eth
+  - ENS app: https://app.ens.domains/name/ookyet.eth
   - Etherscan: https://etherscan.io/enslookup-search?search=ookyet.eth
 - **X / Instagram:** https://x.com/ookyet · https://instagram.com/ookyet
 
@@ -125,7 +130,7 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
   "url": "https://ookyet.com",
   "image": "https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png",
   "sameAs": [
-    "https://app.ens.domains/ookyet.eth",
+    "https://app.ens.domains/name/ookyet.eth",
     "https://etherscan.io/enslookup-search?search=ookyet.eth",
     "https://x.com/ookyet",
     "https://instagram.com/ookyet",
@@ -149,8 +154,15 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 ---
 
 ## License & Credits
-- **Text in this repository:** CC BY 4.0
-- **OG card and avatar:** © Holder of NFT **Lil Ghost #761**. Press/preview use permitted; commercial reuse requires permission.
+
+### Text
+- **Repository content:** CC BY 4.0
+
+### OG Card & Avatar
+- **Copyright:** © Holder of NFT **Lil Ghost #761**
+- **Personal & editorial use:** ✅ Permitted
+- **Commercial reuse:** ⚠️ Requires permission
+- **License:** [WGG Holder License](https://docs.weirdoghost.com/#terms)
 
 ---
 
