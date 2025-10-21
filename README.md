@@ -72,19 +72,6 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 
 ---
 
-## Canonical links
-- **Identity Proof:** https://ookyet.com/proof
-- **Verified Gallery:** https://ookyet.com/gallery/
-- **ENS Playbook (context):** https://ookyet.com/ens/
-- **Sovereign site:** https://ookyet.com
-- **Dentity:** https://app.dentity.com/ookyet.eth
-- **ENS record:** `ookyet.eth`
-  - ENS app: https://app.ens.domains/name/ookyet.eth
-  - Etherscan: https://etherscan.io/enslookup-search?search=ookyet.eth
-- **X / Instagram:** https://x.com/ookyet · https://instagram.com/ookyet
-
----
-
 ## Copy-ready snippets
 
 <details>
@@ -130,8 +117,8 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
   "url": "https://ookyet.com",
   "image": "https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png",
   "sameAs": [
-    "https://app.ens.domains/name/ookyet.eth",
-    "https://etherscan.io/enslookup-search?search=ookyet.eth",
+    "https://app.ens.domains/ookyet.eth",
+    "https://etherscan.io/name-lookup-search?id=ookyet.eth",
     "https://x.com/ookyet",
     "https://instagram.com/ookyet",
     "https://app.dentity.com/ookyet.eth"
@@ -146,7 +133,7 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 <summary><b>Minimal canonical trio</b></summary>
 
 - **Identity Proof:** https://ookyet.com/proof
-- **ENS (on-chain):** `ookyet.eth`
+- **ENS (on-chain):** https://app.ens.domains/ookyet.eth
 - **Gallery (visual evidence):** https://ookyet.com/gallery/
 
 </details>
