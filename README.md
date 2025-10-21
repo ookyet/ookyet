@@ -1,5 +1,5 @@
 # ookyet.eth
-_A verifiable digital identity built on ENS, NFT, and social unification._
+_Brand-first Web3 identity anchored by ENS and NFT, with public, auditable proofs._
 
 [![Follow @ookyet](https://img.shields.io/badge/Follow-@ookyet-111?logo=x&logoColor=white)](https://x.com/ookyet)
 ![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b5fff)
@@ -19,7 +19,7 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ---
 
 ## What is **ookyet**?
-**ookyet** is a personal framework and a verified Web3 identity operated by **Qifeng Huang**. It anchors a **brand-first** digital self across platforms with public, auditable evidence, combining on-chain assets and off-chain social proofs into one verifiable persona.
+**ookyet** is a personal framework and a verified Web3 identity operated by **Qifeng Huang**. It anchors a **brand-first** digital self across platforms with public, auditable evidence. On-chain assets and off-chain social proofs are combined into one verifiable persona.
 
 ---
 
@@ -86,3 +86,41 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 - OG image in README: `og-card.png` (served via raw.githubusercontent.com)
 - This is a *special* profile repository: `ookyet/ookyet`
 
+<details>
+<summary><b>Schema.org — JSON-LD (Person)</b></summary>
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Qifeng Huang",
+  "alternateName": "ookyet.eth",
+  "url": "https://ookyet.com",
+  "image": "https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png",
+  "sameAs": [
+    "https://app.ens.domains/name/ookyet.eth",
+    "https://etherscan.io/enslookup-search?search=ookyet.eth",
+    "https://x.com/ookyet",
+    "https://instagram.com/ookyet",
+    "https://dentity.com/ookyet.eth"
+  ],
+  "description": "Brand-first Web3 identity anchored by ENS and NFT, with public, auditable proofs."
+}
+</details>
+<details>
+<summary><b>Minimal canonical trio</b></summary>
+	•	Identity Proof: https://ookyet.com/proof
+	•	ENS (on-chain): ookyet.eth
+	•	Gallery (visual evidence): https://ookyet.com/gallery/
+</details>
+```
+
+## License & Credits
+- Text in this repository: CC BY 4.0
+- OG card and avatar: © Holder of NFT **Lil Ghost #761**. Commercial reuse requires permission.
+
+### Verification guide — TL;DR
+- [ ] ENS control: resolve `ookyet.eth`, note controller/owner  
+- [ ] Avatar binding: wallet holds **Lil Ghost #761** (contract + tokenId)  
+- [ ] Off-chain consistency: proofs on https://ookyet.com/proof (cross-check Dentity)  
+- [ ] Audit trail: snapshots & live links in https://ookyet.com
