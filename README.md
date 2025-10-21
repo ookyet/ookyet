@@ -7,7 +7,7 @@
 [![Follow on X](https://img.shields.io/badge/Follow-@ookyet-111111?logo=x&logoColor=white)](https://x.com/ookyet)
 ![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-2A50E6)
 
-[![OG preview — ookyet.eth](https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png)](https://ookyet.com)
+[![OG preview — ookyet.eth](./og-card.png)](https://ookyet.com)
 
 ---
 
@@ -19,28 +19,14 @@
 
 ---
 
-## What is ookyet?
+## Links
 
-**ookyet** is a personal framework and a verified Web3 identity operated by Qifeng Huang.  
-It anchors a **brand-first** digital self across platforms with public, auditable evidence.
-
-**One-liner:** *A verifiable digital identity built on ENS, NFT, and social unification.*
-
-### Identity pillars
-- **ENS:** `ookyet.eth` (on-chain ownership)
-- **NFT avatar:** *Lil Ghost #761* (publicly verifiable)
-- **Sovereign site:** https://ookyet.com (Identity Proof + Verified Gallery)
-- **Consistent handle:** `ookyet` across X / Instagram / GitHub
-
-### Links
 - Website: https://ookyet.com  
 - Identity Proof: https://ookyet.com/proof  
 - Verified Gallery: https://ookyet.com/gallery/  
-- Dentity: https://dentity.com/ookyet.eth  
 - X (Twitter): https://x.com/ookyet  
 - Instagram: https://www.instagram.com/ookyet/  
-- GitHub: https://github.com/ookyet  
-- Wikidata: https://www.wikidata.org/wiki/Q136532531
+- GitHub: https://github.com/ookyet
 
 ---
 
