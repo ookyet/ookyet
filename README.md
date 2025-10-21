@@ -6,7 +6,7 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png" alt="OG preview — ookyet.eth identity card" width="880">
+  <img src="./og-card.png" alt="ookyet.eth — ENS verified identity, NFT avatar Lil Ghost #761" width="880">
 </p>
 
 ---
@@ -51,7 +51,9 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 - **ENS Playbook (context):** https://ookyet.com/ens/
 - **Sovereign site:** https://ookyet.com
 - **Dentity:** https://dentity.com/ookyet.eth
-- **ENS record:** [`ookyet.eth`](https://app.ens.domains/name/ookyet.eth)
+- **ENS record:** `ookyet.eth`
+  - ENS app: https://app.ens.domains/name/ookyet.eth
+  - Etherscan: https://etherscan.io/enslookup-search?search=ookyet.eth
 - **X / Instagram:** https://x.com/ookyet · https://instagram.com/ookyet
 
 ---
@@ -59,18 +61,22 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
 ## Copy-ready snippets
 
 <details>
-<summary><b>OG image embed (Markdown)</b></summary>
+<summary><b>OG image — Markdown</b></summary>
 
-```md
+```markdown
+![OG preview — ookyet.eth identity card](https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png)
+</details>
+<details>
+<summary><b>OG image — HTML (centered)</b></summary>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ookyet/ookyet/main/og-card.png" alt="OG preview — ookyet.eth identity card" width="880">
+  <img src="./og-card.png" alt="OG preview — ookyet.eth identity card" width="880">
 </p>
 </details>
 <details>
 <summary><b>Badges (Markdown)</b></summary>
-[![Follow @ookyet](https://img.shields.io/badge/Follow-@ookyet-111?logo=x&logoColor=white)](https://x.com/ookyet)
-![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b5fff)
-![Last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit)
+[![Follow @ookyet](https://img.shields.io/badge/Follow-@ookyet-111?logo=x&logoColor=white&style=flat-square)](https://x.com/ookyet)
+[![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b55ff?style=flat-square)](https://app.ens.domains/name/ookyet.eth)
+[![last commit](https://img.shields.io/github/last-commit/ookyet/ookyet?label=last%20commit&style=flat-square)](https://github.com/ookyet/ookyet/commits/main)
 </details>
 ```
 
