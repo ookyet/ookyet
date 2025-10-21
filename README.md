@@ -75,5 +75,9 @@ _A verifiable digital identity built on ENS, NFT, and social unification._
   <sub>“The way I ook defines what I can yet build.” — the <i>ookyet</i> cadence</sub>
 </p>
 ```
-
+---
+### Tech bits
+- Social preview: 1280×640 (set in **Settings → Social preview**)
+- OG image in README: `og-card.png` (served via raw.githubusercontent.com)
+- This is a *special* profile repository: `ookyet/ookyet`
 
