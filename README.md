@@ -1,7 +1,4 @@
 # ookyet.eth
-*The way I **ook** defines what I can yet build.*
-
-**Digital Builder · ⌘ Tinkerer · Pixel Purist**
 
 [![Follow @ookyet](https://img.shields.io/badge/Follow-@ookyet-111?logo=x&logoColor=white)](https://x.com/ookyet)
 ![Built on ENS](https://img.shields.io/badge/Built%20on-ENS-0b5fff)
@@ -13,30 +10,49 @@
 
 ---
 
-## Verify me fast
-- ✅ **Identity Proof (public audit hub):** https://ookyet.com/proof
-- ✅ **ENS domain (on-chain ownership):** `ookyet.eth`
-- ✅ **Web3 credential (Dentity):** https://app.dentity.com/ookyet.eth
+## 💡 Why Verifiable Web3 Identity?
+
+Traditional platforms own your identity. They can ban you, impersonate you, fragment you across silos.
+
+**ookyet.eth flips the model:**
+
+| Traditional | ookyet.eth |
+|------------|-----------|
+| Platform-controlled | Self-sovereign ENS |
+| Easy to fake | Cryptographic proof (NFT #761) |
+| Fragmented | 98% cross-platform unity |
+| Search invisible | Google Entity Recognition ✓ |
+
+> A verifiable identity isn't one credential—it's the convergence of on-chain ownership, human verification, and technical excellence.
+
+**This is a template, not a flex.** Architecture: [web3-identity-seo](https://github.com/ookyet/web3-identity-seo)
+
+---
+
+## Verify
+- ✅ **Identity Proof:** https://ookyet.com/proof
+- ✅ **ENS domain:** `ookyet.eth`
+- ✅ **Dentity credential:** https://app.dentity.com/ookyet.eth
 
 ---
 
 ## What is ookyet?
-**ookyet** is a personal framework and verified Web3 identity controlled by **ookyet.eth**.
+A personal framework for verifiable Web3 identity, controlled by **ookyet.eth**.
 
-It bridges on-chain assets (ENS, NFT) and off-chain proofs (social, credentials) into one publicly auditable persona — a **brand-first** digital self with zero trust assumptions.
+Bridges on-chain assets (ENS, NFT) and off-chain proofs (social, credentials) into one publicly auditable persona—a brand-first digital self with zero trust assumptions.
 
 ---
 
 ## Identity pillars
-- **ENS**: `ookyet.eth` (human-readable handle ↔ on-chain address)
-- **NFT avatar**: _Lil Ghost #761_ (ownership publicly verifiable on-chain)
-- **Sovereign site**: https://ookyet.com (canonical **Identity Proof** & **Verified Gallery**)
-- **Web3 credentials**: Dentity profile binding personhood ↔ ENS ↔ socials
-- **Structured data**: Schema.org @graph entity modeling (machine-readable identity for search engines)
+- **ENS**: `ookyet.eth` — human-readable handle ↔ on-chain address
+- **NFT avatar**: _Lil Ghost #761_ — cryptographic proof of ownership
+- **Sovereign site**: https://ookyet.com — canonical Identity Proof & Verified Gallery
+- **Dentity**: binding personhood ↔ ENS ↔ social accounts
+- **Schema.org**: @graph entity modeling — machine-readable identity for search engines
 
 ---
 
-## Verification guide — TL;DR
+## Verification guide
 - [ ] **ENS control:** resolve `ookyet.eth`, note controller/owner
 - [ ] **Avatar binding:** wallet holds **Lil Ghost #761** (contract + tokenId)
 - [ ] **Off-chain consistency:** proofs on https://ookyet.com/proof (cross-check Dentity)
@@ -72,7 +88,7 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 
 ---
 
-## Copy-ready snippets
+## Snippets
 
 <details>
 <summary><b>OG image — Markdown</b></summary>
