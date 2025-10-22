@@ -27,21 +27,15 @@ Traditional platforms own your identity. They can ban you, impersonate you, frag
 
 **This is a template, not a flex.** Architecture: [web3-identity-seo](https://github.com/ookyet/web3-identity-seo)
 
----
-
 ## Verify
 - ✅ **Identity Proof:** https://ookyet.com/proof
 - ✅ **ENS domain:** `ookyet.eth`
 - ✅ **Dentity credential:** https://app.dentity.com/ookyet.eth
 
----
-
 ## What is ookyet?
 A personal framework for verifiable Web3 identity, controlled by **ookyet.eth**.
 
 Bridges on-chain assets (ENS, NFT) and off-chain proofs (social, credentials) into one publicly auditable persona—a brand-first digital self with zero trust assumptions.
-
----
 
 ## Identity pillars
 - **ENS**: `ookyet.eth` — human-readable handle ↔ on-chain address
@@ -49,8 +43,6 @@ Bridges on-chain assets (ENS, NFT) and off-chain proofs (social, credentials) in
 - **Sovereign site**: https://ookyet.com — canonical Identity Proof & Verified Gallery
 - **Dentity**: binding personhood ↔ ENS ↔ social accounts
 - **Schema.org**: @graph entity modeling — machine-readable identity for search engines
-
----
 
 ## Verification guide
 - [ ] **ENS control:** resolve `ookyet.eth`, note controller/owner
@@ -154,8 +146,6 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 
 </details>
 
----
-
 ## License & Credits
 
 ### Text
@@ -166,8 +156,6 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 - **Personal & editorial use:** ✅ Permitted
 - **Commercial reuse:** ⚠️ Requires permission
 - **License:** [WGG Holder License](https://docs.weirdoghost.com/#terms)
-
----
 
 ## Tech notes
 
