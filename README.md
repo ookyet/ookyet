@@ -81,6 +81,8 @@ Making ENS domains discoverable by search engines through Schema.org entity mode
 
 **Tech:** Shell · Hugo · Schema.org · Web3
 
+**Field notes:** [I Retired My "85% Knowledge Panel Probability" Claim. Then Google Built the Entity Anyway](https://dev.to/ookyet/i-retired-my-85-knowledge-panel-probability-claim-then-google-built-the-entity-anyway-3e5o) — the honest retrospective behind the milestone (Jul 2026).
+
 ---
 
 ## Snippets
